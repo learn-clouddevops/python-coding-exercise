@@ -1,0 +1,7 @@
+2024-01-15 08:23:12 INFO Login from 192.168.1.100 user=admin@company.com session=sk_live_abc123def456
+2024-01-15 08:24:45 WARN Failed login from 203.0.113.5 user=hacker@evil.com attempts=3
+2024-01-15 08:25:10 ERROR API call from 10.0.0.50 to /api/users returned 500 key=prod_xyz789abc012
+2024-01-15 08:26:33 INFO Deployment by deploy@company.com from 172.16.0.25 to server nginx-prod-01
+2024-01-15 08:27:55 WARN Suspicious request from 999.999.999.999 user=test@fake.com token=invalid_token
+2024-01-15 08:28:12 ERROR Database connection failed from 192.168.1.200 user=dbadmin@company.com
+2024-01-15 08:29:40 INFO Backup completed from 10.10.10.10 size=15GB key=backup_key_secret123
